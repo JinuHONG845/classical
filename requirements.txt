@@ -1,0 +1,27 @@
+streamlit==1.31.1
+openai==1.12.0
+python-dotenv==1.0.0
+
+# 데이터 처리 및 분석
+pandas==2.2.0
+numpy==1.26.0
+
+# JSON 처리
+json5==0.9.14
+
+# 요청 처리 및 캐싱
+requests==2.31.0
+requests-cache==1.1.0
+
+# 마크다운 지원
+markdown==3.5.1
+
+# 에러 처리 및 로깅
+python-json-logger==2.0.7
+
+# 이미지 처리 (작곡가 이미지 표시 등을 위해)
+Pillow==10.0.0
+
+# 스트림릿 컴포넌트 확장
+streamlit-extras==0.4.0
+
